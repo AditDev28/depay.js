@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "sebar = hama",
+  "secretCode": "sebar = CRACK BY VIGORA🥱🤡",
 
   "description": "NIKA VERSION 6 Vvip", 
 
